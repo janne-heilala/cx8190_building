@@ -14,3 +14,5 @@ Link libraries
 Create a new PLC project with TwinCAT PLC Control in order to perform the library linking.
 
 Go to Library Management and add the libraries.
+
+Command Update project with target system…
